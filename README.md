@@ -2,6 +2,7 @@
 
 My personal collection of small C libraries for connecting external peripherals to STM32 microcontrollers using the STM32 HAL.
 These examples targeted the **Nucleo-L412KB**
+This is mainly for my embedded systems module at university
 
 ## Peripherals
 
