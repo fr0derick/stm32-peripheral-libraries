@@ -3,9 +3,9 @@
 My personal collection of small C libraries for connecting external peripherals to STM32 microcontrollers using the STM32 HAL.
 These examples targeted the **Nucleo-L412KB**
 
-# Peripherals
+## Peripherals
 
-## 16X2 Display Functions
+### 16X2 Display Functions
 
 | Function | Purpose |
 | --- | --- |
@@ -20,7 +20,7 @@ These examples targeted the **Nucleo-L412KB**
 
 The LCD indexes start at 0, and the default config supports one LCD so use LCD16X2_1 which is defined as `0`
 
-# Plans
+## Plans
 
 - I'm planning to add a library for interfacing a **4X4 Keypad**
 - And more, possibly.
